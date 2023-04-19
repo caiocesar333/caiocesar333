@@ -6,7 +6,6 @@
 - 📫 How to reach me: caiocesar333@outlook.com
 -->
 
-<div style="display: inline_block"><br>
  [![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocesar333show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,7 +14,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-</div>
+
   
   ##
  
