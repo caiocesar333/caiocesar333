@@ -8,6 +8,8 @@
 
  [![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocesar333&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <div>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
