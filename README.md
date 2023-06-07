@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on full stack personal projects
-- 🌱 I’m currently learning Rust, C#, cybersecurity and machine learning
+- 🌱 I’m currently learning Vue, Rust, C#, cybersecurity and machine learning
 - 📫 How to reach me: caiocesar333@outlook.com
 -->
 
